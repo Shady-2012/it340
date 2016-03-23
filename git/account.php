@@ -9,13 +9,13 @@
 
 
 
-$hostname = "sql1.njit.edu"          ; 
+$hostname = "127.0.0.1"          ; 
 
-$username = "ssz5"                 ;
+$username = "root"                 ;
 
-$password = "fTBPBbjws"            ;
+$password = "gana0505"            ;
 
-$project = "ssz5"            ;
+$project = "Grades"            ;
 
 
 
